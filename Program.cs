@@ -12,6 +12,7 @@ namespace ConsoleApp25
         {
             Console.WriteLine("Novo");
             Console.WriteLine("Suradnja");
+            Console.WriteLine("Suradnja druga");
         }
     }
 }
